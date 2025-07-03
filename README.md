@@ -21,3 +21,5 @@ The second part of the script focuses on building and training a simple LSTM (Lo
 Finally, the script uses matplotlib to create an image combining the outputs of both GPT-2 and the LSTM model. It wraps the text nicely and saves the result in an image file (text_generation_output.png), offering a visual comparison of the styles and coherence of both models' outputs.
 
 Output:
+
+![Image](https://github.com/user-attachments/assets/1f3c4d64-8b08-431f-bc4d-8300349f6822)
